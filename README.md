@@ -20,9 +20,13 @@ Fazer download do projeto, ir ao diretório raiz do mesmo pelo terminal e execut
 $ npm install
 ```
 
-Em seguida, para inicialização do projeto, executar: 
-
+Em seguida, para inicialização do projeto, executar no terminal: 
 ```
-$ npm run dev:server
+$ npm run start
+```
+
+Em outra sessão do terminal executar:
+```
+$ npm run start:server
 ```
 
