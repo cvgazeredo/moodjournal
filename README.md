@@ -23,6 +23,6 @@ $ npm install
 Em seguida, para inicialização do projeto, executar: 
 
 ```
-$ npm start
+$ npm run dev:server
 ```
 
