@@ -1,0 +1,46 @@
+{
+  "journal": [
+    {
+      "text": "Eu me sinto feliz",
+      "mood": "Happy",
+      "createdAt": "2023-07-01T14:20:37.248Z",
+      "id": 1
+    },
+    {
+      "text": "Eu me sinto normal",
+      "mood": "Normal",
+      "createdAt": "2023-07-02T14:24:13.704Z",
+      "id": 2
+    },
+    {
+      "text": "Eu me sinto triste",
+      "mood": "Sad",
+      "createdAt": "2023-07-03T14:24:25.254Z",
+      "id": 3
+    },
+    {
+      "text": "Eu me sinto normal",
+      "mood": "Normal",
+      "createdAt": "2023-07-04T14:24:25.254Z",
+      "id": 4
+    },
+    {
+      "text": "Eu me sinto feliz",
+      "mood": "Happy",
+      "createdAt": "2023-07-05T14:24:25.254Z",
+      "id": 5
+    },
+    {
+      "text": "Eu me sinto normal",
+      "mood": "Normal",
+      "createdAt": "2023-07-06T14:24:25.254Z",
+      "id": 6
+    },
+    {
+      "text": "Eu me sinto normal",
+      "mood": "Normal",
+      "createdAt": "2023-07-07T14:24:25.254Z",
+      "id": 7
+    }
+  ]
+}
