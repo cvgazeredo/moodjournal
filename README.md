@@ -9,6 +9,7 @@
 * Visualizar gráfico simples de variação de humor ao longo de dias;
 * Monitorar porcentagem de determinado humor por dias registrados.
 
+Figma: https://www.figma.com/community/file/1261809679380571003
 
 ## Execução: 
 
